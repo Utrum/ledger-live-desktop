@@ -19,6 +19,7 @@ const supported: CryptoCurrencyIds[] = [
   'digibyte',
   'hcash',
   'komodo',
+  'utrum',
   'pivx',
   'zencash',
   'vertcoin',
